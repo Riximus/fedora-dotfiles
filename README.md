@@ -11,3 +11,5 @@
 - **Prompt**: [Starship](https://starship.rs/)
 - **Smarter cd**: [Zoxide](https://github.com/ajeetdsouza/zoxide)
 - **Better ls**: [Exa](https://github.com/ogham/exa)
+- **PC Stats Monitor**: [Btop++](https://github.com/aristocratos/btop)
+- **Another PC Monitor**: [Bottom](https://github.com/ClementTsang/bottom)
