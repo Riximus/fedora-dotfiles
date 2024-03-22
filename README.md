@@ -1,8 +1,10 @@
 # Fedora Dotfiles
 
-# RPM
+## Gnome Extensions
 
-# Terminal
+## RPM
+
+## Terminal
 
 - **Terminal**: Gnome Terminal (still looking for the right one)
 - **Shell**: ZSH
