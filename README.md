@@ -5,6 +5,8 @@ Gnome Shell Version: 45
 ## Gnome Extensions
 - [Blur my Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/) - Adds blur as background when away from workspace
 - [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/)
+- [Color Picker](https://extensions.gnome.org/extension/3396/color-picker/)
+- [Custom Hot Corners](https://extensions.gnome.org/extension/4167/custom-hot-corners-extended/) - Set your own corner actions
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
 - [Extension List](https://extensions.gnome.org/extension/3088/extension-list/) - Adds the list to bar
 - [Forge](https://extensions.gnome.org/extension/4481/forge/) - Tiling Manager
